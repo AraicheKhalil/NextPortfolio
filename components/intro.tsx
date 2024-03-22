@@ -8,6 +8,8 @@ import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
 import { SiUpwork } from "react-icons/si";
+import { swithchHead } from "react-icons/si";
+import { gnomeUI } from "react-icons/si";
 
 
 export default function Intro() {
@@ -105,7 +107,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack "
-          href="https://www.upwork.com/freelancers/~010b496a57ac0733c1?qpn-profile-completeness=employment&s=1110580755107926016"
+          href="https://www.upwork.com/freelancers"
           target="_blank"
         >
           <SiUpwork />
