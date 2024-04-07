@@ -8,8 +8,8 @@ import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
 import { SiUpwork } from "react-icons/si";
-import { swithchHead } from "react-icons/si";
-import { gnomeUI } from "react-icons/si";
+// import { swithchHead } from "react-icons/si";
+// import { gnomeUI } from "react-icons/si";
 
 
 export default function Intro() {
